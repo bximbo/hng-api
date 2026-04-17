@@ -135,5 +135,7 @@ This ensures the service restarts automatically on server reboot.
 
 ## Author
 
-Israel Abimbola Adenuga GitHub: [https://github.com/bximbo](https://github.com/bximbo) Email: [israelabimbolaa@gmail.com](mailto\:israelabimbolaa@gmail.com)
+Israel Abimbola Adenuga 
+GitHub: [https://github.com/bximbo](https://github.com/bximbo) 
+Email: [israelabimbolaa@gmail.com](mailto\:israelabimbolaa@gmail.com)
 
